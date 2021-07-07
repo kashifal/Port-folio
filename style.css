@@ -118,8 +118,9 @@ social media
 .donate button{
     background-color: #eba83a;
     border: none;
-    border-radius:10px;
+    border-radius:100px;
     font-weight: bold;
+    
     width: 100px;
 
 }
@@ -186,7 +187,8 @@ social media
     border-radius: 5px;
     background-color: #4d22a3cc;
     border: none;
-    padding: 4px 4px;
+    font-weight:bold;
+    padding: 2px 4px;
     padding-left: 10px;
     padding-right: 10px;
     outline: none;
