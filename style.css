@@ -29,6 +29,8 @@ html{
     top: 0%;
     bottom: 0%;
     background-origin: content-box;
+        background-attachment: fixed;
+
     opacity: 0.75;
     filter: alpha(opacity=75);
     z-index: 2;
